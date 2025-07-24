@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../DSA(java)"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ios": "cpp",
+			"vector": "cpp",
+			"map": "cpp",
+			"limits": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}

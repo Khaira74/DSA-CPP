@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../JAVA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ios": "cpp"
+		}
+	}
+}
